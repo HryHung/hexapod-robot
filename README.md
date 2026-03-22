@@ -1,6 +1,6 @@
 # Hexapod Robot Platform
 
-Modular hexapod robot designed for embedded control research, gait optimization, and scalable robotics architecture.
+Hexapod robot designed for testing hexa-model control, mechanical design learning and prove what we had learnt at university are "useful".
 
 ---
 
