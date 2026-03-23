@@ -3,6 +3,7 @@
 Hexapod robot designed for testing hexa-model control, mechanical design learning and prove what we had learnt at university are "useful".
 It's just a platform moving robot so typicaly you can put anything on the top: arm, camera, lidar, machine gun,...
 
+*NOTE 27/01/26: DON'T BUY MG996 Servo with Plastic gearbox, they will strip after 4-5 run times. 
 ---
 
 ## 🚀 Overview
